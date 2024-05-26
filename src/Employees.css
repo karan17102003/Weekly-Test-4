@@ -1,0 +1,33 @@
+.liftDiv{
+    height: 300px;
+    width: 200px;
+    border:  2px solid black;
+    overflow-y:scroll;
+
+}
+.RightDiv{
+    height: 300px;
+    width: 200px;
+    border:  2px solid black;
+    overflow-y:scroll;
+    
+}
+.maincontainer{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 22%;
+}
+.employe-list{
+    display: flex;
+   justify-content: space-between;
+    flex-direction: row;
+    padding: 10px;
+}
+.avgAge{
+    position: absolute;
+   
+    padding: 10px 40px;
+    margin: 257px 0px 0px 657px;
+    background-color: gray;
+
+}
